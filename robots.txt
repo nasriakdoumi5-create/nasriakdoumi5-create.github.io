@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nasriakdoumi5-create.github.io/sitemap.xml
